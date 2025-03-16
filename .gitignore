@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ml_env/
+
+# macOS files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Generated output and models (if not needed in version control)
+output/
+models/
+data/
