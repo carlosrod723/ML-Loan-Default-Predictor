@@ -104,7 +104,3 @@ The dataset used in this project is derived from multiple Excel sheets containin
 ## Conclusion
 
 This project demonstrates how hyperparameter tuning and advanced modeling can improve loan default prediction. By comparing multiple models and understanding their performance through metrics such as recall and F1-score, we are better equipped to identify borrowers at risk of default. The insights gained here provide a strong foundation for further exploration, such as integrating explainable AI techniques to understand model decisions at a granular level.
-
----
-
-Feel free to modify or expand upon this README as needed. Let me know if you need any further adjustments or additional sections!
